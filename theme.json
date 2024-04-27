@@ -85,9 +85,51 @@
 			"fluid": true,
 			"fontFamilies": [
 				{
-					"fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif",
-					"name": "System Font",
-					"slug": "system-font"
+					"fontFace": [
+						{
+							"fontFamily": "Orbitron",
+							"fontStretch": "normal",
+							"fontStyle": "normal",
+							"fontWeight": "100 900",
+							"src": [
+								"file:./assets/fonts/geist/Orbitront-VariableFront_wght.ttf"
+							]
+						}
+					],
+					"fontFamily": "\"Orbitron\", sans-serif",
+					"name": "Oribitron",
+					"slug": "orbitron"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Roboto-slab",
+							"fontStretch": "normal",
+							"fontStyle": "normal",
+							"fontWeight": "100 900",
+							"src": [
+								"file:./assets/fonts/geist/RobotoSlacb-VariableFont_wght.ttf"
+							]
+						}
+					],
+					"fontFamily": "\"Roboto-slab\", serif",
+					"name": "Roboto-slab",
+					"slug": "Roboto-slab"
+				},
+				{
+					"fontFamily": "ui-sans-serif, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", sans-serif",
+					"name": "System Sans Serif",
+					"slug": "system-sans-serif"
+				},
+				{
+					"fontFamily": "ui-serif, Georgia, serif",
+					"name": "System Serif",
+					"slug": "system-serif"
+				},
+				{
+					"fontFamily": "ui-monospace, Menlo, Consolas, Monaco, \"Liberation Mono\", \"Lucida Console\", monospace",
+					"name": "System Monospace",
+					"slug": "system-monospace"
 				}
 			],
 			"fontSizes": [
