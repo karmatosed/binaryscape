@@ -1,0 +1,140 @@
+{
+	"$schema": "https://schemas.wp.org/wp/6.5/theme.json",
+	"settings": {
+		"appearanceTools": true,
+		"color": {
+			"defaultDuotone": false,
+			"defaultGradients": false,
+			"defaultPalette": false,
+			"duotone": [],
+			"gradients": [],
+			"palette": [
+				{
+					"color": "#fafafa",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#111111",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#f6ade3",
+					"name": "Accent",
+					"slug": "accent"
+				}
+			]
+		},
+		"layout": {
+			"contentSize": "620px",
+			"wideSize": "1240px"
+		},
+		"spacing": {
+			"customSpacingSize": true,
+			"spacingScale": {
+				"steps": 0
+			},
+			"spacingSizes": [
+				{
+					"name": "X-Small",
+					"size": "0.25rem",
+					"slug": "20"
+				},
+				{
+					"name": "Small",
+					"size": "0.5rem",
+					"slug": "30"
+				},
+				{
+					"name": "Medium",
+					"size": "1rem",
+					"slug": "40"
+				},
+				{
+					"name": "Large",
+					"size": "clamp(1.5rem, 2vw, 2rem)",
+					"slug": "50"
+				},
+				{
+					"name": "X-Large",
+					"size": "clamp(3rem, 4vw, 4rem)",
+					"slug": "60"
+				},
+				{
+					"name": "2X-Large",
+					"size": "clamp(4.5rem, 6vw, 6rem)",
+					"slug": "70"
+				},
+				{
+					"name": "3X-Large",
+					"size": "clamp(6rem, 8vw, 8rem)",
+					"slug": "80"
+				}
+			],
+			"units": [
+				"%",
+				"px",
+				"em",
+				"rem",
+				"vh",
+				"vw"
+			]
+		},
+		"typography": {
+			"fluid": true,
+			"fontFamilies": [
+				{
+					"fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif",
+					"name": "System Font",
+					"slug": "system-font"
+				}
+			],
+			"fontSizes": [
+				{
+					"fluid": false,
+					"name": "Small",
+					"size": "1rem",
+					"slug": "small"
+				},
+				{
+					"fluid": true,
+					"name": "Medium",
+					"size": "1.618rem",
+					"slug": "medium"
+				},
+				{
+					"fluid": true,
+					"name": "Large",
+					"size": "2.618rem",
+					"slug": "large"
+				},
+				{
+					"fluid": true,
+					"name": "Extra Large",
+					"size": "4.236rem",
+					"slug": "x-large"
+				},
+				{
+					"fluid": true,
+					"name": "Double Extra Large",
+					"size": "6.854rem",
+					"slug": "xx-large"
+				}
+			],
+			"writingMode": true
+		},
+		"useRootPaddingAwareAlignments": true
+	},
+	"templateParts": [
+		{
+			"area": "header",
+			"name": "header"
+		},
+		{
+			"area": "footer",
+			"name": "footer"
+		}
+	],
+	"version": 2
+}
