@@ -1,0 +1,60 @@
+{
+	"$schema": "https://schemas.wp.org/wp/6.5/theme.json",
+	"version": 2,
+	"title": "Skyward",
+	"settings": {
+		"color": {
+			"duotone": [
+				{
+					"colors": ["#111111", "#ffffff"],
+					"slug": "duotone-1",
+					"name": "Black and white"
+				}
+			],
+			"gradients": [
+				{
+					"slug": "gradient-1",
+					"gradient": "linear-gradient(to bottom, #AAAAAA 50%, #F9F9F9 50%)",
+					"name": "Vertical hard grey to white"
+				}
+			],
+			"palette": [
+				{
+					"color": "#65dc98",
+					"name": "Accent",
+					"slug": "accent"
+				},
+				{
+					"color": "#9ffee3",
+					"name": "Accent / Two",
+					"slug": "accent-2"
+				},
+				{
+					"color": "#575268",
+					"name": "Accent / Three",
+					"slug": "accent-3"
+				},
+				{
+					"color": "#fafafa",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#e2dedf",
+					"name": "Contrast / Two",
+					"slug": "contrast-2"
+				},
+				{
+					"color": "#a2a2a2",
+					"name": "Contrast / Three",
+					"slug": "contrast-3"
+				},
+				{
+					"color": "#17161d",
+					"name": "Base",
+					"slug": "base"
+				}
+			]
+		}
+	}
+}
