@@ -833,12 +833,18 @@
 			},
 			"link": {
 				":hover": {
+					"color": {
+						"text": "var(--wp--preset--color--accent-3)"
+					},
 					"typography": {
-						"textDecoration": "none"
+						"textDecoration": "underline"
 					}
 				},
 				"color": {
-					"text": "var(--wp--preset--color--contrast)"
+					"text": "var(--wp--preset--color--accent-2)"
+				},
+				"typography": {
+					"textDecoration": "none"
 				}
 			}
 		},
