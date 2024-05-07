@@ -1,7 +1,7 @@
 {
 	"$schema": "https://schemas.wp.org/wp/6.5/theme.json",
 	"version": 2,
-	"title": "Skyward",
+	"title": "Lightspace",
 	"settings": {
 		"color": {
 			"duotone": [
@@ -20,17 +20,17 @@
 			],
 			"palette": [
 				{
-					"color": "#65dc98",
+					"color": "#3f898e",
 					"name": "Accent",
 					"slug": "accent"
 				},
 				{
-					"color": "#9ffee3",
+					"color": "#86ead9",
 					"name": "Accent / Two",
 					"slug": "accent-2"
 				},
 				{
-					"color": "#575268",
+					"color": "#2f404c",
 					"name": "Accent / Three",
 					"slug": "accent-3"
 				},
@@ -45,12 +45,12 @@
 					"slug": "contrast-2"
 				},
 				{
-					"color": "#a2a2a2",
+					"color": "#b1acb0",
 					"name": "Contrast / Three",
 					"slug": "contrast-3"
 				},
 				{
-					"color": "#17161d",
+					"color": "#1c1f20",
 					"name": "Base",
 					"slug": "base"
 				}

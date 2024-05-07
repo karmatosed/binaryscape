@@ -43,12 +43,12 @@
 					"slug": "contrast"
 				},
 				{
-					"color": "#cccccc",
+					"color": "#aaaaaa",
 					"name": "Contrast / Two",
 					"slug": "contrast-2"
 				},
 				{
-					"color": "#aaaaaa",
+					"color": "#111111",
 					"name": "Contrast / Three",
 					"slug": "contrast-3"
 				},
@@ -183,43 +183,47 @@
 				}
 			],
 			"fontSizes": [
+				
 				{
 					"fluid": false,
 					"name": "Small",
-					"size": "0.9rem",
+					"size": "1rem",
 					"slug": "small"
 				},
 				{
-					"fluid": false,
+					"fluid": {
+						"max": "1.49rem",
+						"min": "1.47rem"
+					},
 					"name": "Medium",
-					"size": "1rem",
+					"size": "1.47rem",
 					"slug": "medium"
 				},
 				{
 					"fluid": {
-						"min": "1.95rem",
-						"max": "2.02rem"
+						"max": "2.44rem",
+						"min": "2.76rem"
 					},
 					"name": "Large",
-					"size": "2.02rem",
+					"size": "2.76rem",
 					"slug": "large"
 				},
 				{
 					"fluid": {
-						"min": "2.44rem",
-						"max": "2.74rem"
+						"max": "3.05rem",
+						"min": "3.76rem"
 					},
 					"name": "Extra Large",
-					"size": "2.74rem",
+					"size": "3.76rem",
 					"slug": "x-large"
-				},
+				},				
 				{
 					"fluid": {
-						"min": "3.55rem",
-						"max": "3.73rem"
+						"max": "3.81rem",
+						"min": "5.13rem"
 					},
 					"name": "Extra Extra Large",
-					"size": "3.73rem",
+					"size": "5.13rem",
 					"slug": "xx-large"
 				}
 			],

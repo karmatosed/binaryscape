@@ -20,17 +20,17 @@
 			],
 			"palette": [
 				{
-					"color": "#3f898e",
+					"color": "#86ead9",
 					"name": "Accent",
 					"slug": "accent"
 				},
 				{
-					"color": "#86ead9",
+					"color": "#3f898e",
 					"name": "Accent / Two",
 					"slug": "accent-2"
 				},
 				{
-					"color": "#2f404c",
+					"color": "#51b1b7",
 					"name": "Accent / Three",
 					"slug": "accent-3"
 				},
@@ -40,12 +40,12 @@
 					"slug": "contrast"
 				},
 				{
-					"color": "#e2dedf",
+					"color": "#b1acb0",
 					"name": "Contrast / Two",
 					"slug": "contrast-2"
 				},
 				{
-					"color": "#b1acb0",
+					"color": "#2d404c",
 					"name": "Contrast / Three",
 					"slug": "contrast-3"
 				},
