@@ -1,7 +1,7 @@
 {
 	"$schema": "https://schemas.wp.org/wp/6.5/theme.json",
 	"version": 3,
-	"title": "Lightspace",
+	"title": "Dream",
 	"settings": {
 		"color": {
 			"duotone": [
@@ -20,37 +20,37 @@
 			],
 			"palette": [
 				{
-					"color": "#3f898e",
+					"color": "#333333",
 					"name": "Accent",
 					"slug": "accent"
 				},
 				{
-					"color": "#86ead9",
+					"color": "#555555",
 					"name": "Accent / Two",
 					"slug": "accent-2"
 				},
 				{
-					"color": "#2f404c",
+					"color": "#999999",
 					"name": "Accent / Three",
 					"slug": "accent-3"
 				},
 				{
-					"color": "#fafafa",
+					"color": "#111111",
 					"name": "Contrast",
 					"slug": "contrast"
 				},
 				{
-					"color": "#e2dedf",
+					"color": "#aaaaaa",
 					"name": "Contrast / Two",
 					"slug": "contrast-2"
 				},
 				{
-					"color": "#b1acb0",
+					"color": "#bbbbbb",
 					"name": "Contrast / Three",
 					"slug": "contrast-3"
 				},
 				{
-					"color": "#1c1f20",
+					"color": "#ffffff",
 					"name": "Base",
 					"slug": "base"
 				}
