@@ -33,7 +33,7 @@
             ],
             "palette": [
                 {
-                    "color": "#333333",
+                    "color": "#107d15",
                     "name": "Accent",
                     "slug": "accent"
                 },
@@ -48,7 +48,7 @@
                     "slug": "accent-3"
                 },
                 {
-                    "color": "#111111",
+                    "color": "#000000",
                     "name": "Contrast",
                     "slug": "contrast"
                 },
@@ -58,7 +58,7 @@
                     "slug": "contrast-2"
                 },
                 {
-                    "color": "#cccccc",
+                    "color": "#e2fd92",
                     "name": "Contrast / Three",
                     "slug": "contrast-3"
                 },
@@ -163,47 +163,47 @@
                     "slug": "system-serif"
                 },
                 {
-                    "name": "Orbitron",
-                    "slug": "orbitron",
-                    "fontFamily": "Orbitron, sans-serif",
                     "fontFace": [
                         {
-                            "src": "file:./assets/fonts/yMJMMIlzdpvBhQQL_SC3X9yhF25-T1nyGy6xo2IyXjU1pg.woff2",
+                            "fontFamily": "Orbitron",
+                            "fontStyle": "normal",
                             "fontWeight": "400",
-                            "fontStyle": "normal",
-                            "fontFamily": "Orbitron"
+                            "src": "file:./assets/fonts/yMJMMIlzdpvBhQQL_SC3X9yhF25-T1nyGy6xo2IyXjU1pg.woff2"
                         },
                         {
-                            "src": "file:./assets/fonts/yMJMMIlzdpvBhQQL_SC3X9yhF25-T1nyKS6xo2IyXjU1pg.woff2",
+                            "fontFamily": "Orbitron",
+                            "fontStyle": "normal",
                             "fontWeight": "500",
-                            "fontStyle": "normal",
-                            "fontFamily": "Orbitron"
+                            "src": "file:./assets/fonts/yMJMMIlzdpvBhQQL_SC3X9yhF25-T1nyKS6xo2IyXjU1pg.woff2"
                         },
                         {
-                            "src": "file:./assets/fonts/yMJMMIlzdpvBhQQL_SC3X9yhF25-T1nyxSmxo2IyXjU1pg.woff2",
+                            "fontFamily": "Orbitron",
+                            "fontStyle": "normal",
                             "fontWeight": "600",
-                            "fontStyle": "normal",
-                            "fontFamily": "Orbitron"
+                            "src": "file:./assets/fonts/yMJMMIlzdpvBhQQL_SC3X9yhF25-T1nyxSmxo2IyXjU1pg.woff2"
                         },
                         {
-                            "src": "file:./assets/fonts/yMJMMIlzdpvBhQQL_SC3X9yhF25-T1ny_Cmxo2IyXjU1pg.woff2",
+                            "fontFamily": "Orbitron",
+                            "fontStyle": "normal",
                             "fontWeight": "700",
-                            "fontStyle": "normal",
-                            "fontFamily": "Orbitron"
+                            "src": "file:./assets/fonts/yMJMMIlzdpvBhQQL_SC3X9yhF25-T1ny_Cmxo2IyXjU1pg.woff2"
                         },
                         {
-                            "src": "file:./assets/fonts/yMJMMIlzdpvBhQQL_SC3X9yhF25-T1nymymxo2IyXjU1pg.woff2",
+                            "fontFamily": "Orbitron",
+                            "fontStyle": "normal",
                             "fontWeight": "800",
-                            "fontStyle": "normal",
-                            "fontFamily": "Orbitron"
+                            "src": "file:./assets/fonts/yMJMMIlzdpvBhQQL_SC3X9yhF25-T1nymymxo2IyXjU1pg.woff2"
                         },
                         {
-                            "src": "file:./assets/fonts/yMJMMIlzdpvBhQQL_SC3X9yhF25-T1nysimxo2IyXjU1pg.woff2",
-                            "fontWeight": "900",
+                            "fontFamily": "Orbitron",
                             "fontStyle": "normal",
-                            "fontFamily": "Orbitron"
+                            "fontWeight": "900",
+                            "src": "file:./assets/fonts/yMJMMIlzdpvBhQQL_SC3X9yhF25-T1nysimxo2IyXjU1pg.woff2"
                         }
-                    ]
+                    ],
+                    "fontFamily": "Orbitron, sans-serif",
+                    "name": "Orbitron",
+                    "slug": "orbitron"
                 },
                 {
                     "name": "Roboto Slab",
@@ -211,44 +211,8 @@
                     "fontFamily": "\"Roboto Slab\", serif",
                     "fontFace": [
                         {
-                            "src": "file:./assets/fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWWbW5iddG-1A.woff2",
-                            "fontWeight": "100",
-                            "fontStyle": "normal",
-                            "fontFamily": "\"Roboto Slab\""
-                        },
-                        {
-                            "src": "file:./assets/fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISWbW5iddG-1A.woff2",
-                            "fontWeight": "200",
-                            "fontStyle": "normal",
-                            "fontFamily": "\"Roboto Slab\""
-                        },
-                        {
-                            "src": "file:./assets/fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSWbW5iddG-1A.woff2",
-                            "fontWeight": "300",
-                            "fontStyle": "normal",
-                            "fontFamily": "\"Roboto Slab\""
-                        },
-                        {
-                            "src": "file:./assets/fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWbW5iddG-1A.woff2",
-                            "fontWeight": "400",
-                            "fontStyle": "normal",
-                            "fontFamily": "\"Roboto Slab\""
-                        },
-                        {
-                            "src": "file:./assets/fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSWbW5iddG-1A.woff2",
-                            "fontWeight": "500",
-                            "fontStyle": "normal",
-                            "fontFamily": "\"Roboto Slab\""
-                        },
-                        {
-                            "src": "file:./assets/fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOWbW5iddG-1A.woff2",
-                            "fontWeight": "600",
-                            "fontStyle": "normal",
-                            "fontFamily": "\"Roboto Slab\""
-                        },
-                        {
-                            "src": "file:./assets/fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OWbW5iddG-1A.woff2",
-                            "fontWeight": "700",
+                            "src": "file:./assets/fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOWbW5iddG-1A.woff2",
+                            "fontWeight": "900",
                             "fontStyle": "normal",
                             "fontFamily": "\"Roboto Slab\""
                         },
@@ -259,10 +223,59 @@
                             "fontFamily": "\"Roboto Slab\""
                         },
                         {
-                            "src": "file:./assets/fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOWbW5iddG-1A.woff2",
-                            "fontWeight": "900",
+                            "src": "file:./assets/fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OWbW5iddG-1A.woff2",
+                            "fontWeight": "700",
                             "fontStyle": "normal",
                             "fontFamily": "\"Roboto Slab\""
+                        },
+                        {
+                            "src": "file:./assets/fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOWbW5iddG-1A.woff2",
+                            "fontWeight": "600",
+                            "fontStyle": "normal",
+                            "fontFamily": "\"Roboto Slab\""
+                        },
+                        {
+                            "src": "file:./assets/fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSWbW5iddG-1A.woff2",
+                            "fontWeight": "500",
+                            "fontStyle": "normal",
+                            "fontFamily": "\"Roboto Slab\""
+                        },
+                        {
+                            "src": "file:./assets/fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISWbW5iddG-1A.woff2",
+                            "fontWeight": "400",
+                            "fontStyle": "normal",
+                            "fontFamily": "\"Roboto Slab\""
+                        },
+                        {
+                            "src": "file:./assets/fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSWbW5iddG-1A.woff2",
+                            "fontWeight": "300",
+                            "fontStyle": "normal",
+                            "fontFamily": "\"Roboto Slab\""
+                        },
+                        {
+                            "src": "file:./assets/fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISWbW5iddG-1A.woff2",
+                            "fontWeight": "200",
+                            "fontStyle": "normal",
+                            "fontFamily": "\"Roboto Slab\""
+                        },
+                        {
+                            "src": "file:./assets/fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWWbW5iddG-1A.woff2",
+                            "fontWeight": "100",
+                            "fontStyle": "normal",
+                            "fontFamily": "\"Roboto Slab\""
+                        }
+                    ]
+                },
+                {
+                    "name": "Roboto Flex",
+                    "slug": "roboto-flex",
+                    "fontFamily": "\"Roboto Flex\", sans-serif",
+                    "fontFace": [
+                        {
+                            "src": "file:./assets/fonts/NaN4epOXO_NexZs0b5QrzlOHb8wCikXpYqmZsWI-__OGfttPZktqc2VdZ80KvCLZaPcSBZtOx2MifRuWR28sPJtUMbsFEK6cRrleUx9Xgbm3WLHa_F4Ep4Fm0PN19Ik5Dntczx0wZGzhPlL1YNMYKbv9_1IQXOw7AiUJVXpRJ6cXW4O8TNGoXjC79QRyaLshNDUf3e0O-gn5rrZCu20YNYG0EACUTNK-QKavMlxGJI8dxef0jQ.woff2",
+                            "fontWeight": "400",
+                            "fontStyle": "normal",
+                            "fontFamily": "\"Roboto Flex\""
                         }
                     ]
                 }
@@ -1023,8 +1036,8 @@
                     "radius": ".33rem"
                 },
                 "color": {
-                    "background": "var(--wp--preset--color--contrast)",
-                    "text": "var(--wp--preset--color--base)"
+                    "background": "var(--wp--preset--color--base)",
+                    "text": "var(--wp--preset--color--accent)"
                 },
                 "spacing": {
                     "padding": {
@@ -1085,7 +1098,7 @@
                     "text": "var(--wp--preset--color--contrast)"
                 },
                 "typography": {
-                    "fontFamily": "var(--wp--preset--font-family--heading)",
+                    "fontFamily": "var(--wp--preset--font-family--roboto-slab)",
                     "fontWeight": "var(--wp--preset--font-weight--regular)",
                     "lineHeight": "var(--wp--custom--line-height--tight)"
                 }
@@ -1100,9 +1113,10 @@
                     }
                 },
                 "color": {
-                    "text": "var(--wp--preset--color--accent-2)"
+                    "text": "var(--wp--preset--color--accent)"
                 },
                 "typography": {
+                    "fontFamily": "var(--wp--preset--font-family--roboto-slab)",
                     "textDecoration": "none"
                 }
             }
@@ -1115,7 +1129,7 @@
             }
         },
         "typography": {
-            "fontFamily": "var(--wp--preset--font-family--body)",
+            "fontFamily": "var(--wp--preset--font-family--roboto-flex)",
             "fontSize": "var(--wp--preset--font-size-small)",
             "fontStyle": "normal",
             "fontWeight": "var(--wp--custom--font-weight--regular)",
